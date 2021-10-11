@@ -21,7 +21,7 @@ struct student
 
 #include <stdio.h>
 
-float avg;
+float avg; // 전역변수 선언
 
 struct student {
 	int num;
